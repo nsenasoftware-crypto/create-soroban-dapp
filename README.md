@@ -1,4 +1,5 @@
 <!-- # @create-soroban-dapp.Bu proje Seviye 2 gereksinimlerini karşılamak için hazırlanmıştır.
+Proje başarıyla frokladı.
 
 @create-soroban-dapp is both a npx script and a boilerplate dapp for kickstarting any of your ideas for a Soroban-based Dapp.
 
